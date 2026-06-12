@@ -44,6 +44,12 @@ I build resilient, self-healing systems and automate virtual infrastructure from
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Pair%20Programmer-%234285F4.svg?style=flat&logo=google&logoColor=white)
 
+#### Architectural Concepts & Methodologies
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-%23121011.svg?style=flat&logo=selfhosted&logoColor=white)
+![Homelab](https://img.shields.io/badge/Homelab-%23171F24.svg?style=flat&logo=home-assistant&logoColor=white)
+![Infrastructure as Code](https://img.shields.io/badge/IaC-%230078D4.svg?style=flat&logo=powershell&logoColor=white)
+![Infrastructure as a Service](https://img.shields.io/badge/IaaS-blue?style=flat&logo=serverfault&logoColor=white)
+
 #### 🎯 Upcoming & Future Focus
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%23089BF1.svg?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
