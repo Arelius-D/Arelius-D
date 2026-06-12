@@ -73,4 +73,4 @@ I started back in the DOS and Pascal eras, booting off floppy disks on 286 syste
 ### 📊 GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arelius-D&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&theme=dracula) -->
