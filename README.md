@@ -7,7 +7,7 @@ I’m currently a Cloud & Virtualization Specialist candidate, applying a backgr
 I enjoy building resilient, self-healing systems and automating virtual infrastructure from the hypervisor down to the guest OS. My approach to engineering is centered around bridging system layers, maintaining modular autonomy, and automating resilience.
 
 #### Cross-Layer Engineering
-I try my best to operate across the entire stack, writing automation that connects separate infrastructure boundaries—bridging physical hardware, hypervisors, containers, and routing namespaces.
+I try my best to operate across the entire stack, writing automation that connects separate infrastructure boundaries by bridging physical hardware, hypervisors, containers, and routing namespaces.
 
 #### Decoupled Autonomy
 I like to believe that systems should be modular, self-contained, and run offline-first, ensuring individual components can isolate, monitor, and recover without cascading failures.
