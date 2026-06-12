@@ -4,7 +4,7 @@ I’m currently a Cloud & Virtualization Specialist candidate, applying a backgr
 
 ### Architectural Principles & System Design
 
-I build resilient, self-healing systems and automate virtual infrastructure from the hypervisor down to the guest OS. My approach to engineering is centered around bridging system layers, maintaining modular autonomy, and automating resilience.
+I enjoy building resilient, self-healing systems and automating virtual infrastructure from the hypervisor down to the guest OS. My approach to engineering is centered around bridging system layers, maintaining modular autonomy, and automating resilience.
 
 #### Cross-Layer Engineering
 I try my best to operate across the entire stack, writing automation that connects separate infrastructure boundaries—bridging physical hardware, hypervisors, containers, and routing namespaces.
