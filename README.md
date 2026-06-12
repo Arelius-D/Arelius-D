@@ -19,7 +19,3 @@ I like to believe that automation is more than just deployment; it is active lif
 
 ### My Roots
 My journey with computers started in the DOS and Pascal eras, booting off floppy disks on 286 systems. That early exposure to CLI-driven command environments declared some internal variables in me—forming my premise of dissecting each obstacle or problem into its structural layers to fully understand it before setting a goal to solve it.
-
----
-
-*“If you have to do it twice, write a script. If it can break while you are asleep, write a watchdog.”*
