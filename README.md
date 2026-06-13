@@ -53,6 +53,7 @@ For me, engineering is a continuous journey, not a static destination; the lands
 ![Homelab](https://img.shields.io/badge/Homelab-%23171F24.svg?style=flat&logo=home-assistant&logoColor=white)
 ![Infrastructure as Code](https://img.shields.io/badge/IaC-%230078D4.svg?style=flat&logo=powershell&logoColor=white)
 ![Infrastructure as a Service](https://img.shields.io/badge/IaaS-blue?style=flat&logo=serverfault&logoColor=white)
+![Resource Management & Optimization](https://img.shields.io/badge/Resource%20Management%20%26%20Optimization-%23121011.svg?style=flat&logo=serverfault&logoColor=white)
 
 #### 🎯 Upcoming & Future Focus
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%23089BF1.svg?style=flat&logo=microsoft-azure&logoColor=white)
