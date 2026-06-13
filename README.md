@@ -1,8 +1,10 @@
+### 👤 About Me
+
+For me, engineering is a continuous journey, not a static destination; the landscape is constantly shifting. I crave complexity and enjoy dissecting systems layer-by-layer to understand how they work under the hood. As a Cloud & Virtualization Specialist candidate, I apply this mindset to infrastructure design, building resilient and self-healing environments.
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D" alt="Visitors">
 </p>
-
-For me, engineering is a continuous journey, not a static destination; the landscape is constantly shifting. I crave complexity and enjoy dissecting systems layer-by-layer to understand how they work under the hood. As a Cloud & Virtualization Specialist candidate, I apply this mindset to infrastructure design, building resilient and self-healing environments.
 
 ---
 
