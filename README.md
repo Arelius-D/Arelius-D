@@ -1,6 +1,8 @@
-# Arelius-D ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D)
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D" alt="Visitors">
+</p>
 
-I build resilient, self-healing systems and automate virtual infrastructure from the hypervisor down to the guest OS. As a Cloud & Virtualization Specialist candidate, I apply a background in systems, networks, and low-level scripting to engineer robust environments.
+For me, engineering is a continuous journey, not a static destination; the landscape is constantly shifting. I crave complexity and enjoy dissecting systems layer-by-layer to understand how they work under the hood. As a Cloud & Virtualization Specialist candidate, I apply this mindset to infrastructure design, building resilient and self-healing environments.
 
 ---
 
