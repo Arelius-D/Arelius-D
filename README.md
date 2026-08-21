@@ -1,6 +1,6 @@
 ### 👤 About Me
 
-I like tackling complex systems: stripping them down layer by layer, redoing the blueprint if necessary, and connecting the dots to see how everything fits together under the hood. That hands-on approach naturally led me to pursue Cloud & Virtualization, where I focus on building clean, automated environments designed to handle failure automatically.
+I like taking complex systems apart layer by layer, working out how they actually fit together, and rebuilding them better than I found them. That's what led me into Cloud & Virtualization, where I build clean, automated environments that are designed to handle failure on their own.
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D" alt="Visitors">
@@ -53,6 +53,8 @@ I like tackling complex systems: stripping them down layer by layer, redoing the
 ![Homelab](https://img.shields.io/badge/Homelab-%23171F24.svg?style=flat&logo=home-assistant&logoColor=white)
 ![Infrastructure as Code](https://img.shields.io/badge/IaC-%230078D4.svg?style=flat&logo=powershell&logoColor=white)
 ![Infrastructure as a Service](https://img.shields.io/badge/IaaS-blue?style=flat&logo=serverfault&logoColor=white)
+![Platform as a Service](https://img.shields.io/badge/PaaS-blue?style=flat&logo=serverfault&logoColor=white)
+![Software as a Service](https://img.shields.io/badge/SaaS-blue?style=flat&logo=serverfault&logoColor=white)
 ![Resource Management & Optimization](https://img.shields.io/badge/Resource%20Management%20%26%20Optimization-%23121011.svg?style=flat&logo=serverfault&logoColor=white)
 
 #### 🎯 Upcoming & Future Focus
@@ -63,25 +65,26 @@ I like tackling complex systems: stripping them down layer by layer, redoing the
 
 ### Architectural Principles & System Design
 
-My approach to engineering is centered around bridging system layers, maintaining modular autonomy, and automating resilience.
+Three ideas shape how I build: connect the layers, keep the parts independent, and let the system correct itself.
 
 #### Cross-Layer Engineering
-I try my best to operate across the entire stack, writing automation that connects separate infrastructure boundaries by bridging physical hardware, hypervisors, containers, and routing namespaces.
+I work across the whole stack, writing automation that reaches over infrastructure boundaries and ties together physical hardware, hypervisors, containers, and routing namespaces.
 
 #### Decoupled Autonomy
-I like to believe that systems should be modular, self-contained, and run offline-first, ensuring individual components can isolate, monitor, and recover without cascading failures.
+Systems should be modular, self-contained, and offline-first. Each component needs to isolate, monitor, and recover on its own rather than taking everything else down with it.
 
 #### State-Driven Self-Healing
-I like to believe that automation is more than just deployment; it is active lifecycle maintenance. I like to design systems with event-driven and polling watchdogs to continuously audit state and correct configuration drift on the fly.
+Automation shouldn't stop at deployment. I build event-driven and polling watchdogs that audit state continuously and correct configuration drift as it happens, so an environment stays the way it was defined.
 
 ---
 
-### My Roots
-I started back in the DOS and Pascal eras, booting off floppy disks on 286 systems. That early exposure to CLI-driven command environments declared some internal variables in me. It's how I approach problems by dissecting each obstacle or point-of-failure into its structural layers to fully understand it before setting a goal to solve it.
+### 🫜 My Roots
+I started in the DOS and Pascal era, booting off floppy disks on 286 systems. Learning on the command line shaped the way I still work: break a problem into its structural layers, understand it properly, then decide how to solve it.
 
 ---
 
 ### 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arelius-D&show_icons=true&theme=dracula)  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&theme=dracula) -->
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&theme=calm_pink)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&theme=calm_pink)
