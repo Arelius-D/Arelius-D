@@ -2,6 +2,8 @@
 
 I like taking complex systems apart layer by layer, working out how they actually fit together, and rebuilding them better than I found them. That's what led me into Cloud & Virtualization, where I build clean, automated environments that are designed to handle failure on their own.
 
+Since June 2026 I've been doing this for a living too, part-time alongside my studies, as IT Manager and Tech Stack Maintainer for a group of companies. Most of it is inherited work across stacks I didn't choose, and getting it running again is the easy half. What I actually care about is leaving it structured, documented and automated enough that the next failure doesn't need me.
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D" alt="Visitors">
 </p>
