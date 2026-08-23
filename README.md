@@ -14,13 +14,28 @@ Since June 2026 I've been doing this for a living too, part-time alongside my st
 
 <p align="left">
   <a href="https://github.com/Arelius-D/LucID">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="LucID">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="LucID">
+    </picture>
   </a>
   <a href="https://github.com/Arelius-D/FedUpDate">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="FedUpDate">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="FedUpDate">
+    </picture>
   </a>
   <a href="https://github.com/Arelius-D/Cerebro">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="Cerebro">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="Cerebro">
+    </picture>
+  </a>
+  <a href="https://github.com/Arelius-D/NeXdocMan">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="NeXdocMan">
+    </picture>
   </a>
 </p>
 
@@ -129,6 +144,12 @@ I started in the DOS and Pascal era, booting off floppy disks on 286 systems. Le
 
 ### 📊 GitHub Statistics
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+  <img src="https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="GitHub stats">
+</picture>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&bg_color=45,FAF5FD,F0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="Top Langs">
+</picture>
