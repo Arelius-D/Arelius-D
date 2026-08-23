@@ -8,6 +8,22 @@ I like taking complex systems apart layer by layer, working out how they actuall
 
 ---
 
+### 🧩 Things I Build That Nobody Uses (But Probably Should)
+
+<p align="left">
+  <a href="https://github.com/Arelius-D/LucID">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="LucID">
+  </a>
+  <a href="https://github.com/Arelius-D/FedUpDate">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="FedUpDate">
+  </a>
+  <a href="https://github.com/Arelius-D/Cerebro">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B&description_lines_count=2" alt="Cerebro">
+  </a>
+</p>
+
+---
+
 ### 🛠️ Technologies & Systems
 
 #### Virtualization & Hypervisors
@@ -111,6 +127,6 @@ I started in the DOS and Pascal era, booting off floppy disks on 286 systems. Le
 
 ### 📊 GitHub Statistics
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&theme=calm_pink)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Arelius-D&rank_icon=github&show=discussions_started%2Cdiscussions_answered%2Cprs_commented%2Cissues_commented&show_icons=true&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&theme=calm_pink)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Arelius-D&layout=compact&langs_count=15&bg_color=45,2A1533,3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B)
