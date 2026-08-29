@@ -14,11 +14,43 @@ Since June 2026 I've been doing this for a living too, part-time alongside my st
 
 #### Self-Hosted
 
-<p align="left"><a href="https://github.com/Arelius-D/LucID"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="LucID" width="429"></picture></a><a href="https://github.com/Arelius-D/TunICA"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=TunICA&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=TunICA&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="TunICA" width="429"></picture></a></p>
+<p align="left">
+  <a href="https://github.com/Arelius-D/LucID">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=LucID&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="LucID" width="415">
+    </picture>
+  </a>
+  <a href="https://github.com/Arelius-D/TunICA">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=TunICA&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=TunICA&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="TunICA" width="415">
+    </picture>
+  </a>
+</p>
 
 #### Utilities
 
-<p align="left"><a href="https://github.com/Arelius-D/FedUpDate"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="FedUpDate" width="286"></picture></a><a href="https://github.com/Arelius-D/Cerebro"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="Cerebro" width="286"></picture></a><a href="https://github.com/Arelius-D/NeXdocMan"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="NeXdocMan" width="286"></picture></a></p>
+<p align="left">
+  <a href="https://github.com/Arelius-D/FedUpDate">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=FedUpDate&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="FedUpDate" width="286">
+    </picture>
+  </a>
+  <a href="https://github.com/Arelius-D/Cerebro">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=Cerebro&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="Cerebro" width="286">
+    </picture>
+  </a>
+  <a href="https://github.com/Arelius-D/NeXdocMan">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45%2CFAF5FD%2CF0E4F7&title_color=0E7C8C&text_color=4A2B57&icon_color=C42B87&border_color=D2B8E3&ring_color=C42B87">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Arelius-D&repo=NeXdocMan&description_lines_count=2&bg_color=45%2C2A1533%2C3D1F4A&title_color=3FD8E8&text_color=D9C7E8&icon_color=E0409B&border_color=5C3A6E&ring_color=E0409B" alt="NeXdocMan" width="286">
+    </picture>
+  </a>
+</p>
 
 ---
 
