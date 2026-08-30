@@ -5,7 +5,7 @@ I like taking complex systems apart layer by layer, working out how they actuall
 Since June 2026 I've been doing this for a living too, part-time alongside my studies, as IT Manager and Tech Stack Maintainer for a group of companies. Most of it is inherited work across stacks I didn't choose, and getting it running again is the easy half. What I actually care about is leaving it structured, documented and automated enough that the next failure doesn't need me.
 
 <p align="right">
-  <a href="https://github.com/Arelius-D?tab=followers"><img src="https://img.shields.io/github/followers/Arelius-D?label=followers&color=E0409B&logo=github&logoColor=white" alt="Followers"></a>
+  <a href="https://github.com/Arelius-D?tab=followers"><img src="https://img.shields.io/github/followers/Arelius-D?style=flat&label=followers&color=E0409B&logo=github&logoColor=white" alt="Followers"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arelius-D.Arelius-D" alt="Visitors">
   <a href="https://hub.docker.com/r/assarelius/lucid"><img src="https://img.shields.io/docker/pulls/assarelius/lucid?label=docker%20pulls&color=0E7C8C&logo=docker&logoColor=white" alt="Docker pulls"></a>
 </p>
